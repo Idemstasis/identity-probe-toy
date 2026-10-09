@@ -1,0 +1,13 @@
+# scratch files
+_out*
+_run*
+_probe*
+_check*
+_verify*
+_dryrun*
+*.bak
+*.bak_*
+*.zip
+.env
+*.env
+__pycache__/
